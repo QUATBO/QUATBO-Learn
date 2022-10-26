@@ -1,2 +1,2 @@
 # QUATBO-Learn
-This is my primary respotiory, a place where I post small hands-on exercises I attempt.
+This is QUATBO's primary repository. A place where I will be posting the small hands-on programming exercises I attempt going forward.
